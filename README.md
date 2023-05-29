@@ -1,5 +1,5 @@
 [![Stats](https://github-readme-stats-lli.vercel.app/api?username=linyaoli&count_private=true&layout=compact)](https://github.com/linyaoli)
-[![Top Langs](https://github-readme-stats-lli.vercel.app/api/top-langs/?username=linyaoli&layout=compact&show_icons=true&count_private=true&hide=php&langs_count=6)](https://github.com/linyaoli)
+<!-- [![Top Langs](https://github-readme-stats-lli.vercel.app/api/top-langs/?username=linyaoli&layout=compact&show_icons=true&count_private=true&hide=php&langs_count=6)](https://github.com/linyaoli) -->
 
 
 <!--
